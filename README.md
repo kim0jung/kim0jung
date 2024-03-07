@@ -19,4 +19,4 @@
   <a href="https://www.instagram.com/0__jung.k/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/s00082442@gmail.com-000000?style=flat&logo=gmail&logoColor=white"/>
 </div><br/>
-[![kim0jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim0jung)](https://github.com/kim0jung/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim0jung)](https://github.com/anuraghazra/github-readme-stats)
