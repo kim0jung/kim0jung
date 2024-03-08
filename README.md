@@ -20,5 +20,7 @@
   <img src="https://img.shields.io/badge/s00082442@gmail.com-000000?style=flat&logo=gmail&logoColor=white"/>
 </div><br/><br/>
 <div align="center">
-![kim0jung's github stats](https://github-readme-stats.vercel.app/api?username=kim0jung&show_icons=true&theme=flag-india)
+  
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=kim0jung&show_icons=true&theme=flag-india)
+
 </div>
