@@ -17,7 +17,7 @@
   📫 SNS & Blog 📫<br/>
   <a href="https://www.instagram.com/0__jung.k/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://kim0jung.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/s00082442@gmail.com-000000?style=flat&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/s00082442@gmail.com-000000?style=flat&logo=gmail&logoColor=white"/></a>
 </div><br/><br/>
 <div align="center">
   
